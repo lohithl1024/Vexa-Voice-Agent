@@ -170,8 +170,3 @@ Allow microphone access in your browser or terminal, check macOS sound/privacy s
 
 ---
 
-<div align="center">
-
-Built as a learning project with the official LiveKit Agents framework.
-
-</div>
