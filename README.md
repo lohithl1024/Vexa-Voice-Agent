@@ -166,9 +166,7 @@ Allow microphone access in your browser or terminal, check macOS sound/privacy s
 - Add optional noise cancellation and deployment configuration.
 - Improve handling of unclear or incomplete speech.
 
-## 📄 License
 
-No license has been selected for this project yet. Add a `LICENSE` file before publishing if you want to specify how others may use and modify the code.
 
 ---
 
