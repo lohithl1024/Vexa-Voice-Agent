@@ -1,0 +1,16 @@
+[project]
+name = "voxa-voice-agent"
+version = "0.1.0"
+description = "A real-time conversational voice assistant built with LiveKit Agents"
+requires-python = ">=3.10"
+dependencies = [
+    "livekit-agents>=1.8.12,<2",
+    "python-dotenv>=1.0,<2",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
